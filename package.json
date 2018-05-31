@@ -1,0 +1,15 @@
+{
+  "name": "note-node",
+  "version": "1.0.0",
+  "description": "My nodejs note app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Eliason-Armstrong",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "yargs": "^4.7.1"
+  }
+}
